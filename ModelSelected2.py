@@ -10,7 +10,7 @@ from sklearn import metrics
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import PolynomialFeatures
-from pre_youssef import *
+from pre_ import *
 from sklearn.preprocessing import StandardScaler
 from math import *
 
